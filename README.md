@@ -2,4 +2,6 @@
 
 <h1>Your Ip Address Show ... :)</h1>
 
+``` python3 ip.py ```
 
+<h1> You Must Install Python </h1>
